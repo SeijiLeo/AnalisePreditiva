@@ -132,16 +132,6 @@ Com base nos resultados, a empresa poderia:
 
 ---
 
-## 📈 Próximos Passos
-
-- Ajuste de hiperparâmetros (GridSearch)
-- Balanceamento de classes (SMOTE)
-- Teste com XGBoost / LightGBM
-- Deploy do modelo como API
-- Dashboard interativo para área de negócios
-
----
-
 ## 📌 O Que Este Projeto Demonstra
 
 ✔ Capacidade de estruturar um problema de negócio  
